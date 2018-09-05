@@ -8,8 +8,8 @@ This is a small prework project that I am submitting for CodePath.org in order t
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="blob:https://imgur.com/32201b85-3824-4489-8a88-471773f6e89f.gif" width=200><br>
-  <iframe src="blob:https://imgur.com/32201b85-3824-4489-8a88-471773f6e89f" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:100%;width:100%;position:absolute;top:0px;left:0px;right:0px;bottom:0px" height="100%" width="100%"></iframe>
+<img src="blob:https://imgur.com/24b0e1e4-4a13-41fd-a68e-415d2c544023" width=200><br>
+  
 
 
 
