@@ -10,7 +10,7 @@ This is a small prework project that I am submitting for CodePath.org in order t
 
 <img src="blob:https://imgur.com/24b0e1e4-4a13-41fd-a68e-415d2c544023.gif" width=200><br>
   
-
+![](blob:https://imgur.com/24b0e1e4-4a13-41fd-a68e-415d2c544023.gif)
 
 
 ### Required User Stories
