@@ -9,6 +9,7 @@ This is a small prework project that I am submitting for CodePath.org in order t
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="https://imgur.com/X8493Ny" width=200><br>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/4KhIYzw"><a href="//imgur.com/4KhIYzw"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
