@@ -8,7 +8,7 @@ This is a small prework project that I am submitting for CodePath.org in order t
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="https://imgur.com/32201b85-3824-4489-8a88-471773f6e89f.gif" width=200><br>
+<img src="https://imgur.com/a/4KhIYzw.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
